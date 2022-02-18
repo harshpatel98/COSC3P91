@@ -1,4 +1,5 @@
 # COSC3P91
+ 
 - RoboRace is a robot race game in which each player attempts to be the first reaching a goal by maneuvering a programmable robot across a factory hall. The factory hall itself is a dynamic race course with elements such as conveyor belts, pitfalls, presses and turning devices.
 
 - Assignment 5 is the final step of the project, which includes the working game
@@ -37,3 +38,9 @@ A space in the factory hall can have up to 2 different elements. Each space will
 
 ## Revitalize all dead robots
 All dead robots become alive again and are placed into their dedicated starting position. If this position is occupied by another robot, the robot will be placed into the first free starting position on the board.
+
+
+
+***Project Course from Brock University By: Michael Winter
+https://www.cosc.brocku.ca/~mwinter/Courses/3P91/
+Project Completed by me throught the course, with guidance from Instructor Michael Winter***
