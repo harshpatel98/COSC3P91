@@ -41,6 +41,10 @@ All dead robots become alive again and are placed into their dedicated starting 
 
 
 
-***Project Course from Brock University By: Michael Winter
-https://www.cosc.brocku.ca/~mwinter/Courses/3P91/
-Project Completed by me throught the course, with guidance from Instructor Michael Winter***
+
+
+ _- Project Course from Brock University By: Michael Winter_
+ _- Project Completed by me throught the course, with guidance from Instructor Michael Winter_
+ 
+ - https://www.cosc.brocku.ca/~mwinter/Courses/3P91/
+ 
